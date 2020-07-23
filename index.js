@@ -58,7 +58,7 @@ async function main() {
     .replace("{sp_abl}", sp_abl)
     .replace("{sp_pl}", sp_pl);
 
-  await fs.writeFile("README_test.md", readme);
+  await fs.writeFile("README.md", readme);
 }
 
 main();
