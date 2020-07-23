@@ -1,0 +1,15 @@
+{
+  "name": "@gargakshit/README",
+  "version": "1.0.0",
+  "description": "My GitHub profile README",
+  "main": "index.js",
+  "repository": "https://github.com/gargakshit/gargakshit",
+  "author": "Akshit Garg <garg.akshit@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "isomorphic-unfetch": "^3.0.0"
+  }
+}
