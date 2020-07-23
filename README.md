@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshit</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Akshit</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p>
 
