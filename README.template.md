@@ -12,9 +12,7 @@
 
 - 📫 How to reach me **akshit@paperplane.ml**
 
-- ⚡ Fun fact **Cats are cute**
-
-I like {sp_liked} songs accross {sp_abl} albums. I have {sp_pl} playlists of awesome music.
+- ⚡ Fun fact **I like {sp_liked} songs accross {sp_abl} albums. I have {sp_pl} playlists of awesome music.**
 
 Quote of the hour:
 
