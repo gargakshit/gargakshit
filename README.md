@@ -16,7 +16,7 @@
 
 Quote of the hour:
 
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+To iterate is human, to recurse divine.
 
 ~ L. Peter Deutsch
 
