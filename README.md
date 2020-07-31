@@ -16,7 +16,7 @@
 
 Quote of the hour:
 
-It is easier to change the specification to fit the program than vice versa.
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 
 ~ Alan Perlis
 
