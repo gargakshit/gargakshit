@@ -1,4 +1,4 @@
-require("isomorphic-unfetch");
+const fetch = require("isomorphic-unfetch");
 const { promises: fs } = require("fs");
 const path = require("path");
 
