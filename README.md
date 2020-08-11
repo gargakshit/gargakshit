@@ -16,7 +16,7 @@
 
 Quote of the hour:
 
-Adding manpower to a late software project makes it later.
+When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
 
 ~ Fred Brooks
 
