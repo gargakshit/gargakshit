@@ -16,7 +16,7 @@
 
 Quote of the hour:
 
-Programming is at least as difficult as developing a mathematical theory.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 
 ~ Daniel T. Barry
 
