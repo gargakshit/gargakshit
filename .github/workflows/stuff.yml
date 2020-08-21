@@ -27,8 +27,8 @@ jobs:
       - name: Add to git repo
         run: |
           git add .
-          git config --global user.name "Akshit Garg"
-          git config --global user.email "garg.akshit@gmail.com"
+          git config --global user.name "readme-bot"
+          git config --global user.email "readme-bot@example.com"
           git commit -m "[Magic] Automated README update"
 
       - name: Push
