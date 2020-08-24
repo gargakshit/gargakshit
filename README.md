@@ -16,7 +16,7 @@
 
 Quote of the hour:
 
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+A clever person solves a problem. A wise person avoids it.
 
 ~ Albert Einstein
 
