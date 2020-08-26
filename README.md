@@ -16,7 +16,7 @@
 
 Quote of the hour:
 
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+Computer programs are the most complex things that humans make.
 
 ~ Douglas Crockford
 
