@@ -16,7 +16,7 @@
 
 Quote of the hour:
 
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 
 ~ Douglas Crockford
 
