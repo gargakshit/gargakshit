@@ -16,7 +16,7 @@
 
 Quote of the hour:
 
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+A number of studies have shown testing not very effective at finding bugs.
 
 ~ Daniel T. Barry
 
