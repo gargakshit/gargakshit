@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akshit@paperplane.ml**
 
-- ⚡ Fun fact **I like 887 songs accross 85 albums. I have 147 playlists of awesome music.**
+- ⚡ Fun fact **I like 889 songs accross 85 albums. I have 147 playlists of awesome music.**
 
 Quote of the hour:
 
