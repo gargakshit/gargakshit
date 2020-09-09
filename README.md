@@ -16,7 +16,7 @@
 
 Quote of the hour:
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+Programming increases goes as a power of program size.
 
 ~ Fred Brooks
 
