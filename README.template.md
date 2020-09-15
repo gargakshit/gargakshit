@@ -8,11 +8,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gargakshit](https://github.com/gargakshit)
 
-- 💬 Ask me about **react, flutter and nodejs**
+- 💬 Ask me about **React, Flutter, Node and TypeScript**
 
 - 📫 How to reach me **me@akshit.tech**
 
-- ⚡ Fun fact **I like {sp_liked} songs accross {sp_abl} albums. I have {sp_pl} playlists of awesome music.**
+- ⚡ Fun fact **I love TypeScript, Dart and cats 😻**
+
+- 🎧 I like **{sp_liked} songs accross {sp_abl} albums**. I have **{sp_pl} playlists of awesome music.**
 
 Quote of the hour:
 
