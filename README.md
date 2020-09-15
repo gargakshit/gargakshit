@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, flutter and nodejs**
 
-- 📫 How to reach me **akshit@paperplane.ml**
+- 📫 How to reach me **me@akshit.tech**
 
 - ⚡ Fun fact **I like 934 songs accross 86 albums. I have 155 playlists of awesome music.**
 
