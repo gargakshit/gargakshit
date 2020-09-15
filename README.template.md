@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, flutter and nodejs**
 
-- 📫 How to reach me **akshit@paperplane.ml**
+- 📫 How to reach me **me@akshit.tech**
 
 - ⚡ Fun fact **I like {sp_liked} songs accross {sp_abl} albums. I have {sp_pl} playlists of awesome music.**
 
