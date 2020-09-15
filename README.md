@@ -8,17 +8,19 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gargakshit](https://github.com/gargakshit)
 
-- 💬 Ask me about **react, flutter and nodejs**
+- 💬 Ask me about **React, Flutter, Node and TypeScript**
 
 - 📫 How to reach me **me@akshit.tech**
 
-- ⚡ Fun fact **I like 934 songs accross 86 albums. I have 155 playlists of awesome music.**
+- ⚡ Fun fact **I love TypeScript, Dart and cats 😻**
+
+- 🎧 I like **934 songs accross 86 albums**. I have **155 playlists of awesome music.**
 
 Quote of the hour:
 
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+JavaScript, purely by accident, has become the most popular programming language in the world.
 
-~ Fred Brooks
+~ Douglas Crockford
 
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=gargakshit&show_icons=true" alt="gargakshit" /> </p>
 
