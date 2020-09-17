@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-Computer programs are the most complex things that humans make.
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 
 ~ Douglas Crockford
 
