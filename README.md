@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
 
 ~ Edsger W. Dijkstra
 
