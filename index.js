@@ -12,7 +12,7 @@ async function main() {
   ).toString("utf-8");
 
   const { en: qoth, author: qoth_author } = await (
-    await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
+    await fetch("https://programming-quotes-api.herokuapp.com/quotes/random/lang/en")
   ).json();
 
   const { access_token } = await (
