@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
+It's not so important what you work on, so long as you're not wasting your time.
 
 ~ Paul Graham (programmer)
 
