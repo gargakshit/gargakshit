@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-Machines take me by surprise with great frequency.
+Codes are a puzzle. A game, just like any other game.
 
 ~ Alan Turing
 
