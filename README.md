@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+Nine women can't make a baby in one month.
 
 ~ Fred Brooks
 
