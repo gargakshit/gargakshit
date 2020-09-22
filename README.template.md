@@ -26,10 +26,7 @@ Quote of the hour:
 
 <p align="center">
 <a href="https://dev.to/gargakshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gargakshit" height="20" width="20" /></a>
-<a href="https://twitter.com/gargakshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gargakshit" height="20" width="20" /></a>
 <a href="https://codesandbox.com/gargakshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="gargakshit" height="20" width="20" /></a>
-<a href="https://instagram.com/thepotatokitty._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thepotatokitty._" height="20" width="20" /></a>
-</p>
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 
