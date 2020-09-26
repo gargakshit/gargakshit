@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-A language that doesn't affect the way you think about programming, is not worth knowing.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 
 ~ Alan Perlis
 
