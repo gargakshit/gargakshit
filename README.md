@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+What one programmer can do in one month, two programmers can do in two months.
 
 ~ Fred Brooks
 
