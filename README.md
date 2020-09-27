@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 
 ~ Fred Brooks
 
