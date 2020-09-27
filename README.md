@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 
 ~ Fred Brooks
 
