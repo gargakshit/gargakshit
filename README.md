@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
 ~ Fred Brooks
 
