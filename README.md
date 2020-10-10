@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I love TypeScript, Dart and cats 😻**
 
-- 🎧 I like **969 songs accross 88 albums**. I have **153 playlists of awesome music.**
+- 🎧 I like **970 songs accross 88 albums**. I have **153 playlists of awesome music.**
 
 Quote of the hour:
 
