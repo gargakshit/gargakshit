@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-There's only one trick in software, and that is using a piece of software that's already been written.
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 
 ~ Bill Gates
 
