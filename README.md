@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
 ~ Linus Torvalds
 
