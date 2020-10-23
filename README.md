@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 
 ~ Fred Brooks
 
