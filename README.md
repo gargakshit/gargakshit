@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-It's not so important what you work on, so long as you're not wasting your time.
+There are few sources of energy so powerful as a procrastinating grad student.
 
 ~ Paul Graham (programmer)
 
