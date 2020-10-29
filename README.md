@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-Computer programs are the most complex things that humans make.
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
 ~ Douglas Crockford
 
