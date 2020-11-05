@@ -18,7 +18,7 @@
 
 Quote of the hour:
 
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
 
 ~ Donald Knuth
 
