@@ -14,11 +14,11 @@
 
 - ⚡ Fun fact **I love TypeScript, Dart and cats 😻**
 
-- 🎧 I like **1057 songs accross 91 albums**. I have **158 playlists of awesome music.**
+- 🎧 I like **1061 songs accross 91 albums**. I have **158 playlists of awesome music.**
 
 Quote of the hour:
 
-A programming language is low level when its programs require attention to the irrelevant.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 
 ~ Alan Perlis
 
