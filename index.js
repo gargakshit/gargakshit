@@ -11,10 +11,6 @@ async function main() {
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
   ).toString("utf-8");
 
-  const { en: qoth, author: qoth_author } = await (
-    await fetch("https://programming-quotes-api.herokuapp.com/quotes/random/lang/en")
-  ).json();
-
   const { access_token } = await (
     await fetch(
       `https://accounts.spotify.com/api/token?grant_type=refresh_token&client_id=${clientId}&client_secret=${clientSecret}&refresh_token=${refreshToken}`,
@@ -52,8 +48,6 @@ async function main() {
   ).json();
 
   const readme = readmeTemplate
-    .replace("{qoth}", qoth)
-    .replace("{qoth_author}", qoth_author)
     .replace("{sp_liked}", sp_liked)
     .replace("{sp_abl}", sp_abl)
     .replace("{sp_pl}", sp_pl);
