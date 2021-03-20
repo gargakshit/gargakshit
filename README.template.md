@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gargakshit](https://github.com/gargakshit)
 
-- 💬 Ask me about **React, Flutter, Node and Golang**
+- 💬 Ask me about **ReScript, React, Flutter, Node and Golang**
 
 - 📫 How to reach me **me@akshit.tech**
 
