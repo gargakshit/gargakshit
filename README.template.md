@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **ReScript, React, Flutter, Node and Golang**
 
+- 🧠 I am currently learning **Fault tolerant, distributed systems using elixir**
+
 - 📫 How to reach me **me@akshit.tech**
 
 - ⚡ Fun fact **I love functional programming, cryptography and cats 😻**
