@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ReScript, React, Flutter, Node and Golang**
 
-- 🧠 I am currently learning **Fault tolerant, distributed systems using elixir**
+- 🧠 I am currently learning **Distributed systems using elixir, and mobile apps with [KMM](https://kotlinlang.org/lp/mobile/)**
 
 - 📫 How to reach me **me@akshit.tech**
 
