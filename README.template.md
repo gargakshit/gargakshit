@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Flutter, Node and Golang**
 
-- 🧠 I am currently learning **Distributed systems using elixir**
+- 🧠 I am currently learning **Real-time systems using elixir**
 
 - 📫 How to reach me **me@akshit.tech**
 
