@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Flutter, Node and Golang**
 
-- 🧠 I am currently learning **Distributed, real-time systems using elixir**
+- 🧠 I am currently learning **F#, Fable and Feliz**
 
 - 📫 How to reach me **me@akshit.tech**
 
@@ -22,8 +22,5 @@
 
 <p align="center">
 <a href="https://dev.to/gargakshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gargakshit" height="20" width="20" /></a>
-<a href="https://codesandbox.com/gargakshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="gargakshit" height="20" width="20" /></a>
-
-_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 
 See how this README works [here](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd)
