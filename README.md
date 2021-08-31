@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Flutter, Node and Golang**
 
-- 🧠 I am currently learning **F#, Fable and Feliz**
+- 🧠 I am currently learning **(LFE:Lisp Flavored Erlang)**
 
 - 📫 How to reach me **me@akshit.tech**
 
