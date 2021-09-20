@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Flutter, Golang, BEAM and ReScript**
 
-- 🧠 I am currently learning **(LFE:Lisp Flavored Erlang)**
+- 🧠 I am currently learning **WinUI with C#**
 
 - 📫 How to reach me **me@akshit.tech**
 
