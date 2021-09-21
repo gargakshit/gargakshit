@@ -10,10 +10,10 @@
 
 - 💬 Ask me about **React, Flutter, Golang, BEAM and ReScript**
 
-- 🧠 I am currently learning **(LFE:Lisp Flavored Erlang)**
+- 🧠 I am currently learning **WinUI (UWP) with C#**
 
 - 📫 How to reach me **me@akshit.tech**
 
 - ⚡ Fun fact **I love functional programming, cryptography and cats 😻**
 
-<!-- - 🎧 I like **1468 songs accross 101 albums**. I have **149 playlists of awesome music.** -->
+<!-- - 🎧 I like **1473 songs accross 101 albums**. I have **151 playlists of awesome music.** -->
