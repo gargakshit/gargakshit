@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Flutter, Golang, BEAM and ReScript**
 
-- 🧠 I am currently learning **WinUI with C#**
+- 🧠 I am currently learning **WinUI (UWP) with C#**
 
 - 📫 How to reach me **me@akshit.tech**
 
