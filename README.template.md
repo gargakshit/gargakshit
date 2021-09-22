@@ -8,12 +8,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gargakshit](https://github.com/gargakshit)
 
-- 💬 Ask me about **React, Flutter, Golang, BEAM and ReScript**
+- ❤ I love **Golang, BEAM and ReScript**
 
 - 🧠 I am currently learning **WinUI (UWP) with C#**
 
 - 📫 How to reach me **me@akshit.tech**
 
-- ⚡ Fun fact **I love functional programming, cryptography and cats 😻**
+- ⚡ Fun fact **I like functional programming, cryptography and cats 😻**
 
 <!-- - 🎧 I like **{sp_liked} songs accross {sp_abl} albums**. I have **{sp_pl} playlists of awesome music.** -->
