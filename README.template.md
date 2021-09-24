@@ -10,7 +10,7 @@
 
 - ❤ I love **Golang, BEAM and ReScript**
 
-- 🧠 I am currently learning **WinUI (UWP) with C#**
+- 🧠 I am currently learning **Hindley-Milner type inference**
 
 - 📫 How to reach me **me@akshit.tech**
 
