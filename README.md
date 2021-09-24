@@ -10,10 +10,10 @@
 
 - ❤ I love **Golang, BEAM and ReScript**
 
-- 🧠 I am currently learning **WinUI (UWP) with C#**
+- 🧠 I am currently learning **Hindley-Milner type inference**
 
 - 📫 How to reach me **me@akshit.tech**
 
 - ⚡ Fun fact **I like functional programming, cryptography and cats 😻**
 
-<!-- - 🎧 I like **1473 songs accross 101 albums**. I have **151 playlists of awesome music.** -->
+<!-- - 🎧 I like **1474 songs accross 101 albums**. I have **151 playlists of awesome music.** -->
