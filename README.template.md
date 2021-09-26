@@ -10,7 +10,7 @@
 
 - ❤ I love **Golang, BEAM and ReScript**
 
-- 🧠 I am currently learning **Hindley-Milner type inference**
+- 🧠 I am currently learning **F# again**
 
 - 📫 How to reach me **me@akshit.tech**
 
