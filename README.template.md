@@ -10,7 +10,7 @@
 
 - ❤ I love **Golang, BEAM and ReScript**
 
-- 🧠 I am currently learning **F# again**
+- 🧠 I am currently learning **Nix**
 
 - 📫 How to reach me **me@akshit.tech**
 
