@@ -1,19 +1,20 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Akshit</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p>
+## Hey there 👋
 
-- 🔭 I’m currently working on **some of my side projects :P**
+I am Akshit Garg, an enthusiast currently hacking on some of my own projects.
 
-- 👯 I’m looking to collaborate on **anything free and open source**
+I love to work with cryptography, interpreters, compilers and distributed
+systems. I am proficient with [Elixir](https://elixir-lang.org),
+[ReScript](https://rescript-lang.org), [Golang](https://golang.org), JavaScript,
+TypeScript and Dart amongst others. I am currently learning
+[F#](https://fsharp.org), [Erlang](https://erlang.org) and
+[Nix](https://nixos.org).
 
-- 👨‍💻 All of my projects are available at [https://github.com/gargakshit](https://github.com/gargakshit)
+As you might have guessed, I love lesser known programming languages and
+systems.
 
-- ❤ I love **Golang, BEAM and ReScript**
-
-- 🧠 I am currently learning **Nix**
-
-- 📫 How to reach me **me@akshit.tech**
-
-- ⚡ Fun fact **I like functional programming, cryptography and cats 😻**
-
-<!-- - 🎧 I like **1474 songs accross 101 albums**. I have **151 playlists of awesome music.** -->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=gargakshit"
+    alt="gargakshit"
+  />
+</p>
