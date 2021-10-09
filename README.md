@@ -8,7 +8,7 @@ systems. I am proficient with [Elixir](https://elixir-lang.org),
 TypeScript and Dart amongst others. I am currently learning
 [F#](https://fsharp.org), [Erlang](https://erlang.org) and
 [Nix](https://nixos.org). Currently hacking with
-[dos-like]https://github.com/mattiasgustavsson/dos-like to make custom DOS
+[dos-like](https://github.com/mattiasgustavsson/dos-like) to make custom DOS
 like controls.
 
 As you might have guessed, I love lesser known programming languages and
