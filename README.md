@@ -6,7 +6,7 @@ I love to work with cryptography, interpreters, compilers and distributed
 systems and retro computers. I am proficient with [Elixir](https://elixir-lang.org),
 [ReScript](https://rescript-lang.org), [Golang](https://golang.org), JavaScript,
 TypeScript and Dart amongst others. Currently hacking with intel 8080 internals to
-make a space invaders arcade machine emulator.
+make a space invaders arcade machine emulator in C++.
 
 As you might have guessed, I love lesser known programming languages and
 systems.
