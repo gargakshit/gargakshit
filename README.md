@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I am Akshit Garg, an enthusiast currently hacking on some of my own projects.
+I am Akshit Garg, an enthusiast currently hacking on some of my projects.
 
 I love to work with cryptography, interpreters, compilers and distributed
 systems and retro computers. I am proficient with [Elixir](https://elixir-lang.org),
